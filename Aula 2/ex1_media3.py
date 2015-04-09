@@ -8,3 +8,6 @@ x = float(input("Digite o primeiro valor: "))
 y = float(input("Digite o segundo valor: "))
 z = float(input("Digite o terceiro valor: "))
 print (media(x, y, z))
+
+# Nota: 1.0
+# Comentario: boa organizacao
